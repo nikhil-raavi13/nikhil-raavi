@@ -13,7 +13,7 @@
 ### 👨‍💼 About Me
 
 - 🎓 Graduate in Computer Science & Engineering  
-- 🏢 Worked on real-time ETL and fraud detection pipelines at **The World Bank Group** and **Cognizant**, building scalable solutions for the healthcare and financial sectors  
+- 🏢 Worked on real-time ETL and fraud detection pipelines at **United Healthcare Group** and **Cognizant**, building scalable solutions for the healthcare and pharma sectors  
 - 🧠 Passionate about data storytelling, MLOps, and solving real-world problems using Python and Spark  
 - 📊 Experienced in creating **automated dashboards**, **predictive ML models**, and **streamlined ETL jobs**  
 - 🌱 Currently exploring streaming tools like Kafka and Apache Flink  
@@ -26,7 +26,7 @@
 <a href="https://linkedin.com/in/nikhil-r13011999" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
 </a>
-<a href="mailto:raavinikhil2212@gmail.com" target="_blank">
+<a href="mailto:nraavi1301@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/-Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" height="30" width="40"/>
 </a>
 </p>
